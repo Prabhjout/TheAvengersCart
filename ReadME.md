@@ -15,15 +15,16 @@ JavaFx
 - Items Content in each bag and wait of each bag.
 - Billing.
 
+
+
 ## Screenshots
+![AddingItemsInCart](https://user-images.githubusercontent.com/54816974/147417851-abb3e7ca-0bf3-41ae-bf95-27374e1b74ab.png)
+![SelectAndClickBuyToAddToCart](https://user-images.githubusercontent.com/54816974/147417870-020bfe46-278a-4d24-8380-1dce1cf92eaf.png)
 
-![Main Screenshot](https://drive.google.com/file/d/1exrxPYTWC5x5HOd0SciGZ7I59FOOoN44/view?usp=sharing)
+![CheckOut](https://user-images.githubusercontent.com/54816974/147417940-5e5042f1-8bce-4d64-87dc-188ad81d80ad.png)
+![ItemsInIndividualBag](https://user-images.githubusercontent.com/54816974/147417943-3a141a3d-bc50-48ad-bb68-d15141f6b5d1.png)
+![Bill](https://user-images.githubusercontent.com/54816974/147417947-0271a56d-6e77-4907-be24-900c3c15e507.png)
 
-![Items Added](https://drive.google.com/file/d/14sXzE1vgZTGoWVQVLaS8CZUXet9l4Zmz/view?usp=sharing)
-
-![Checkout](https://drive.google.com/file/d/1mcaqMQLK71Ibnuo7vCEFPlmzFcNeuH1H/view?usp=sharing)
-
-![Billing](https://drive.google.com/file/d/11GtuJzY7KjW6swC9QBKlVjt100_Vw55G/view?usp=sharing)
 
 ## Authors
 
