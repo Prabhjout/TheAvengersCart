@@ -19,10 +19,14 @@ JavaFx
 
 ## Screenshots
 
+Double Click an item to add from Produck List to Checkout List
 ![SelectAndClickBuyToAddToCart](https://user-images.githubusercontent.com/54816974/147417870-020bfe46-278a-4d24-8380-1dce1cf92eaf.png)
 ![AddingItemsInCart](https://user-images.githubusercontent.com/54816974/147417851-abb3e7ca-0bf3-41ae-bf95-27374e1b74ab.png)
+Click on Checkout to Buy
 ![CheckOut](https://user-images.githubusercontent.com/54816974/147417940-5e5042f1-8bce-4d64-87dc-188ad81d80ad.png)
+Items Contained in each Bag and weight of each bag
 ![ItemsInIndividualBag](https://user-images.githubusercontent.com/54816974/147417943-3a141a3d-bc50-48ad-bb68-d15141f6b5d1.png)
+Bill generated
 ![Bill](https://user-images.githubusercontent.com/54816974/147417947-0271a56d-6e77-4907-be24-900c3c15e507.png)
 
 
